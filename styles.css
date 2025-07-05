@@ -5,6 +5,17 @@
       margin: 0;
       padding: 20px;
     }
+     body {
+      background-image: url(UIPoster.jpg); 
+      background-size: cover;       
+      background-repeat: no-repeat; 
+      background-position: center;  
+      background-attachment: fixed;
+      height: 0px;               
+      margin: 0;
+      padding: 80px 20px;
+      text-align: center;
+    }
 
     h1 {
       text-align: center;
